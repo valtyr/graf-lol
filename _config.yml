@@ -1,0 +1,22 @@
+# Setup
+title:               graf.lol
+tagline:             'Fallegar verkfræðiteikningar'
+description:         'Sendu okkur fallegustu myndirnar úr skýrslunum ykkar og við birtum þær hér!'
+url:                 https://graf.lol
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              VÍR Krakkarnir
+  url:               https://rafnem.hi.is
+  # email:             markdotto@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
